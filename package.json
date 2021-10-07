@@ -2,7 +2,7 @@
   "name": "simplify-zones",
   "version": "1.0.0",
   "description": "Simplify geometry of tariff zones from Entur",
-  "main": "index.js",
+  "main": "index.mjs",
   "author": "Mikael Brevik <mikaelbre@gmail.com>",
   "license": "MIT",
   "private": false,
@@ -14,5 +14,9 @@
   },
   "dependencies": {
     "simplify-geometry": "^0.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikaelbr/simplify-zones.git"
   }
 }
