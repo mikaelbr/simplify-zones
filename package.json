@@ -1,5 +1,5 @@
 {
-  "name": "simplify-zones",
+  "name": "simplify-zone",
   "version": "1.0.0",
   "description": "Simplify geometry of tariff zones from Entur",
   "main": "index.mjs",
