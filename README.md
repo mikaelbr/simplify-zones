@@ -1,5 +1,7 @@
 # simplify-zones
 
+[![test](https://github.com/mikaelbr/simplify-zones/actions/workflows/test.yml/badge.svg)](https://github.com/mikaelbr/simplify-zones/actions/workflows/test.yml)
+
 Simplify geometry on tariff zones from Entur.
 
 ```sh
