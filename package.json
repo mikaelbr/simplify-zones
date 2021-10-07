@@ -6,6 +6,7 @@
   "author": "Mikael Brevik <mikaelbre@gmail.com>",
   "license": "MIT",
   "private": false,
+  "bin": "./cli.mjs",
   "devDependencies": {
     "tap": "^15.0.10"
   },
